@@ -22,7 +22,7 @@ A secure and user-friendly command-line tool for RSA encryption and decryption o
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/simpleEncryption.git
+git clone https://github.com/DHMorse/simpleEncryption
 cd simpleEncryption
 ```
 
