@@ -63,23 +63,6 @@ The program provides an interactive menu with the following options:
 - Secure key storage in PEM format
 - No hardcoded keys or sensitive data
 
-## Project Structure 📁
-
-```
-simpleEncryption/
-├── keys            # Directory for storing RSA key pairs
-├── messages        # Directory for storing encrypted/decrypted
-├── src            # Source code directory
-│   ├── constants.py  # Global constants and directory setup
-│   ├── helpers.py    # Helper functions for encryption/decryption
-│   └── main.py       # Main program with CLI interface
-├── LICENSE        # GNU General Public License v3.0
-├── pyproject.toml # Project metadata and dependencies
-├── README.md      # Project documentation
-├── requirements.txt # Python package dependencies
-└── uv.lock        # Lock file for uv package manager
-```
-
 ## License 📄
 
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
